@@ -198,7 +198,7 @@ void NotepadWindow::setItalic(){
 }
 
 void NotepadWindow::cambiarColor(){
-
+  //  txtEditor_->setTextColor(colorin);
 }
 
 void NotepadWindow::alSalir(){
